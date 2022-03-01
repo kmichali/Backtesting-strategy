@@ -1,4 +1,4 @@
-# Imperial Teaching Fellow - Research Computing interview task
+# Imperial Teaching Fellow for Research Computing - interview task
 
 This repository contains a Jupyter notebook with Python code that implements a backtesting strategy. Your task is to explain this code to an MBA student of an introductory Python programming course in 10 minutes. This code example is to motivate them to pursue a further study.
 
